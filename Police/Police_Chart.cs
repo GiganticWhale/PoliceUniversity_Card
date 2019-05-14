@@ -117,8 +117,10 @@ namespace Police
                      //这里可以编写你需要的任意关于按钮事件的操作~
                      string info = dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
                      if (info.Length > 0) {
-                         Police_Img policeImg = new Police_Img(info);
-                         policeImg.Show();
+                         System.Diagnostics.Process.Start("ExpLore", info);
+
+                         //Police_Img policeImg = new Police_Img(info);
+                         //policeImg.Show();
                      }
                  }
          　

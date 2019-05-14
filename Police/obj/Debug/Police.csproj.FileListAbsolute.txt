@@ -33,3 +33,6 @@ C:\Users\kingsoft\Desktop\新建文件夹\Police\obj\Debug\Police.Properties.Res
 C:\Users\kingsoft\Desktop\新建文件夹\Police\obj\Debug\Police.csproj.GenerateResource.Cache
 C:\Users\kingsoft\Desktop\新建文件夹\Police\obj\Debug\Police.exe.manifest
 C:\Users\kingsoft\Desktop\新建文件夹\Police\obj\Debug\Police.application
+C:\Users\kingsoft\Desktop\a\Police\bin\Debug\Police.exe.config
+C:\Users\kingsoft\Desktop\a\Police\obj\Debug\Police.exe
+C:\Users\kingsoft\Desktop\a\Police\obj\Debug\Police.pdb
